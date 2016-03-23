@@ -1,0 +1,52 @@
+============================================
+             INTRO TO CODING DOJO
+
+TDD - Test Driven Development
+   - Why?
+      - Universal technique to push the ball forward
+      - Climbing with Ropes
+   - The cycle: Red - Green - Refactor
+
+Katas:
+   - Why?  
+      - Performance vs Practice
+   - How?
+   	  - Start from scratch
+   	  - Follow TDD
+
+The problem for today: Poker Hands http://codingdojo.org/cgi-bin/index.pl?KataPokerHands
+
+Dojos:
+   - Group Activity to do Katas
+   - Randori Style Rules 
+   	  - Rotation every 5 minutes
+   	  - Driver/Navigator pairing
+   	  - Driver leaves, Navigator becomes Driver, new Navigator from group
+   	  - When RED: Only the driver navigator pair can speak
+   	  - When GREEN: Everyone can make suggestions
+
+============================================
+                  USING MY LAPTOP
+
+ - Runs Gnome 3 on Arch Linux
+ - Top left corner with mouse is menu
+ - Sublime Test, Terminal and Firefox are the only programs you'll need
+ - We're working in ~/play/dojo-zipcode.  Alias is zc
+
+ - Using Sublime
+    - Run nose with CTRL (or COMMAND) - B
+    - From terminal nosetests
+ - ipython is available in terminal
+
+============================================
+                  REFERENCES
+
+Skeleton Python Project: http://learnpythonthehardway.org/book/ex46.html
+Python Modules, Classes and Objects: http://learnpythonthehardway.org/book/ex40.html
+
+Nose Testing: http://pythontesting.net/framework/nose/nose-introduction/
+              https://nose.readthedocs.org/en/latest/usage.html
+
+Python Cheat Sheet: http://www.cheatography.com/davechild/cheat-sheets/python/pdf/
+
+https://github.com/gregmalcolm/python_koans
