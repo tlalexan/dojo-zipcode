@@ -29,14 +29,19 @@ Dojos:
                   USING MY LAPTOP
 
  - Runs Gnome 3 on Arch Linux
- - Top left corner with mouse is menu
+    - Top left corner with mouse is menu
+    - Alt-tab to switch windows
+    - Caps Lock shows all windows
  - Sublime Test, Terminal and Firefox are the only programs you'll need
  - We're working in ~/play/dojo-zipcode.  Alias is zc
 
  - Using Sublime
-    - Run nose with CTRL (or COMMAND) - B
-    - From terminal nosetests
+    - Double click file to make a tab
+    - Files save when focus lost
+    - Run nose with CTRL-B or COMMAND-B
+    
  - ipython is available in terminal
+ - nosetests is available in terminal
 
 ============================================
                   REFERENCES
