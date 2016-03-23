@@ -1,0 +1,310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prod",
+				"prod-release53-string-A"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/tom/play/dojo-zipcode",
+		"/home/tom/play/dojo-zipcode/pokerhands",
+		"/home/tom/play/dojo-zipcode/tests"
+	],
+	"file_history":
+	[
+		"/home/tom/play/dojo-zipcode/dojo-zipcode.sublime-project",
+		"/home/tom/play/dojo-zipcode/pokerhands/__init__.py",
+		"/home/tom/.config/sublime-text-3/Packages/User/nosetests.sublime-build",
+		"/home/tom/play/dojo-zipcode/tests/pokerhands_tests.py",
+		"/home/tom/play/dojo-zipcode/setup.py",
+		"/home/tom/play/PacmanWeekOneExtended/test/tompac/core_test.clj",
+		"/home/tom/hello.html",
+		"/home/tom/play/PacmanWeekOneExtended/src/tompac/core.clj",
+		"/home/tom/play/findcards/src/findcards/core.clj",
+		"/home/tom/work/nmfg/tec/app/assets/javascripts/account/account_service.js",
+		"/home/tom/work/nmfg/tec/app/assets/javascripts/account/account_info_form_controller.js",
+		"/home/tom/work/nmfg/vendor-portal/spec/models/accounts_receivable_address_spec.rb",
+		"/home/tom/work/nmfg/vendor-portal/spec/factories/accounts_payable_account_factory.rb",
+		"/home/tom/work/nmfg/vendor-portal/features/step_definitions/accounts_payable_actions_steps.rb",
+		"/home/tom/work/nmfg/vendor-portal/app/controllers/accounts_receivable_addresses_controller.rb",
+		"/home/tom/work/nmfg/fog/lib/fog/brightbox/models/compute/accounts.rb",
+		"/home/tom/work/nmfg/testtest/js_spec/unit/account/account_service.spec.js",
+		"/home/tom/work/nmfg/tec/tmp/cache/sass/b0065efea19ca63df163541d1032cd78884e9f36/account_management.scssc",
+		"/home/tom/work/nmfg/fog/tests/rackspace/requests/storage/account_tests.rb",
+		"/home/tom/work/nmfg/fog/tests/rackspace/models/storage/account_tests.rb",
+		"/home/tom/work/nmfg/fog/tests/brightbox/requests/compute/account_tests.rb",
+		"/home/tom/work/nmfg/fog/tests/brightbox/models/compute/account_tests.rb",
+		"/home/tom/work/nmfg/fog/lib/fog/rackspace/models/storage/account.rb",
+		"/home/tom/work/nmfg/fog/lib/fog/brightbox/models/compute/account.rb",
+		"/home/tom/work/nmfg/vp/spec/factories/accounts_payable_factory.rb",
+		"/home/tom/work/nmfg/vp/spec/controllers/accounts_controller_spec.rb",
+		"/home/tom/work/nmfg/vp/app/models/accounts_receivable_address.rb",
+		"/home/tom/work/nmfg/vp/app/models/accounts_payable_account.rb",
+		"/home/tom/work/nmfg/vendor-portal/spec/factories/accounts_payable_factory.rb",
+		"/home/tom/work/nmfg/vendor-portal/spec/controllers/accounts_controller_spec.rb",
+		"/home/tom/work/nmfg/vendor-portal/app/models/accounts_receivable_address.rb",
+		"/home/tom/work/nmfg/vendor-portal/app/models/accounts_payable_account.rb",
+		"/home/tom/work/nmfg/vp/spec/models/account_code_spec.rb",
+		"/home/tom/work/nmfg/vp/spec/factories/account_code_factory.rb",
+		"/home/tom/work/nmfg/vendor-portal/spec/models/account_code_spec.rb",
+		"/home/tom/work/nmfg/vendor-portal/spec/factories/account_code_factory.rb",
+		"/home/tom/work/nmfg/tec/public/templates/richtree/accountInfo.html",
+		"/home/tom/work/nmfg/tec/public/templates/mrsgreens/account_actions.html",
+		"/home/tom/work/nmfg/tec/public/templates/mrsgreens/accountInfo.html",
+		"/home/tom/work/nmfg/create_pimcore_account.sh",
+		"/home/tom/work/nmfg/vp/features/accounts_payable_permissions.feature",
+		"/home/tom/work/nmfg/vp/features/accounts_payable_actions.feature",
+		"/home/tom/work/nmfg/vp/app/models/accounts_payable.rb",
+		"/home/tom/work/nmfg/vp/app/controllers/accounts_controller.rb",
+		"/home/tom/work/nmfg/vendor-portal/features/accounts_payable_permissions.feature",
+		"/home/tom/work/nmfg/vendor-portal/features/accounts_payable_actions.feature",
+		"/home/tom/work/nmfg/vendor-portal/app/models/accounts_payable.rb",
+		"/home/tom/work/nmfg/vendor-portal/app/controllers/accounts_controller.rb",
+		"/home/tom/work/nmfg/vp/spec/models/account_spec.rb",
+		"/home/tom/work/nmfg/vp/app/models/account_code.rb",
+		"/home/tom/work/nmfg/vendor-portal/spec/models/account_spec.rb",
+		"/home/tom/work/nmfg/vendor-portal/app/models/account_code.rb",
+		"/home/tom/work/nmfg/tec/spec/api/account_spec.rb",
+		"/home/tom/work/nmfg/fog/lib/fog/storm_on_demand/account.rb",
+		"/home/tom/work/nmfg/vp/app/models/account.rb",
+		"/home/tom/work/nmfg/vendor-portal/app/models/account.rb",
+		"/home/tom/work/nmfg/tec/app/api/account.rb",
+		"/home/tom/work/nmfg/fog/lib/fog/account.rb",
+		"/home/tom/work/nmfg/tec/app/assets/javascripts/order/add_to_cart_controller.js",
+		"/home/tom/work/nmfg/auth-client-devguide-latest.pdf.1",
+		"/home/tom/902 N MARKET ST APT 811",
+		"/home/tom/userscripts/anti-adblock-killer.user.js",
+		"/home/tom/centos7/test.spec",
+		"/home/tom/userscripts/disable_google_onmousedown.js",
+		"/home/tom/centos7/Vagrantfile",
+		"/home/tom/Downloads/EssentialSSLCA.crl",
+		"/home/tom/work/twreview/WORKSTATION_AUTOMATION_TALK",
+		"/home/tom/work/twreview/garystafford/tw-cn-ip-build-deploy/README.md",
+		"/home/tom/work/twreview/garystafford/Notes",
+		"/home/tom/Unicode also has 𝐁𝐨𝐥𝐝, 𝐼𝑡𝑎𝑙𝑖𝑐𝑠, 𝑩𝒐𝒍𝒅 𝑰𝒕𝒂𝒍𝒊𝒄𝒔",
+		"/home/tom/work/barclays/release_visualization/timeline.html",
+		"/home/tom/maventest/pom.xnl",
+		"/home/tom/downloads/dst/5.Flights.Up.2014.720p.BRRIP.HEVC.x265.AC3-MAJESTiC/5.Flights.Up.2014.720p.BRRIP.HEVC.x265.AC3-MAJESTiC.duplicate1.nfo",
+		"/home/tom/test",
+		"/home/tom/work/nmfg/config-mgmt/cookbooks/monitoring_server/templates/default/hostgroups.cfg.erb",
+		"/home/tom/Downloads/crc64.cpp",
+		"/usr/share/X11/xkb/rules/evdev",
+		"/home/tom/priceline.stack.dump.txt",
+		"/home/tom/work/nmfg/config-mgmt/data_bags/passwords/ci.json",
+		"/home/tom/.zshrc",
+		"/home/tom/work/nmfg/config-mgmt/cookbooks/nmfg/metadata.rb",
+		"/home/tom/work/ttt/oldh/zynx/galen/rh-infra/rpms/apache-tomcat/SPECS/apache-tomcat.spec",
+		"/home/tom/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 170.0,
+		"where_history":
+		[
+			"/home/tom/work/nmfg/tec/app/assets/javascripts/account",
+			"/home/tom/work/nmfg/tec/app/assets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"accountService",
+			"factory",
+			"get",
+			"^.?.?.?.?",
+			"Moni",
+			"$",
+			".*http",
+			"wget",
+			"$",
+			"http",
+			"wget http",
+			"get 'http",
+			"wget http",
+			"http",
+			".*http",
+			"\\) ",
+			"Subject."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"'",
+			"wget  --content-disposition 'http",
+			"wget  --content-disposition http",
+			"wget  --content-disposition",
+			"'",
+			"wget 'http",
+			"wget http",
+			"http",
+			")\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 663.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/nosetests.sublime-build",
+	"project": "dojo-zipcode.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"account_service.j",
+				"tec/app/assets/javascripts/account/account_service.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
